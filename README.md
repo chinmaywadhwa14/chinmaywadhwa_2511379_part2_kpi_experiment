@@ -180,6 +180,6 @@ showed almost no lift. Full reasoning in `outputs/recommendation_memo.md`.
 
 ## 11. Screenshots Included
 
-This deliverable does not include the screenshot files (`summary_metrics.png`,
-`hypothesis_test_output.png`, `kpi_tree_preview.png`) — per Chinmay's instruction,
-these are being captured and added separately.
+This repository include the screenshot files (`summary_metrics.png`,
+`hypothesis_test_output.png`, `kpi_tree_preview.png`) 
+these are being captured and added separately in the screenshot folder.
