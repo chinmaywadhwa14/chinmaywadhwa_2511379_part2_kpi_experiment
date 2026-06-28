@@ -1,4 +1,4 @@
-# Onboarding & Activation Campaign — Experiment Analysis
+ # Part 2- KPI Framework, Business Experiment Analysis & Decision Recommendation
 
 ## 1. Business Context
 
@@ -42,14 +42,6 @@ Leadership needs a decision on whether to launch the new experience to all users
   paid conversion, revenue (30 days), support tickets (30 days), refund requested, days
   to convert, engagement score.
 
-> **Note for Chinmay:** the 1,400/690/710 split above reflects how *I* cleaned the raw
-> file (dropped 8 exact duplicate `user_id` rows, kept everything else as-is). If your
-> own `analysis/experiment_analysis.xlsx` (Task 4) and `outputs/experiment_summary.xlsx`
-> (Task 5) used a different cleaning decision — e.g. you kept duplicates, or handled
-> missing `device_type`/`traffic_source` differently — your numbers may not match mine
-> exactly. Since the rubric grades internal consistency across files, just confirm your
-> N matches before submitting, or tell me your numbers and I'll re-align these docs to
-> them.
 
 ## 3. North Star Metric Selected
 
